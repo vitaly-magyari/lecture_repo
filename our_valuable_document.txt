@@ -2,3 +2,4 @@ hello_world_again
 new line!
 third line
 line from new source
+line from alternative master
